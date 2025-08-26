@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Reddy</h1>
 <h3 align="center">I am passionate about Machine Learning and Backend Services. I have actively worked on various projects in these domains and have successfully complete data training programing Machine Learning, conducted by Intel Unnati. My expertise lies in developing intelligent solutions and efficient backend systems, and I am eager to further enhance my skills through challenging projects and innovative technologies.</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CAF50&center=true&width=550&lines=Passionate+about+Coding+and+Innovation;Always+Learning+New+Technologies;Gen+AI+%7C+Cloud+%7C+ML" alt="Typing SVG" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun240s&label=Profile%20views&color=0e75b6&style=flat" alt="varun240s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun240s" alt="varun240s" /></a> </p>
